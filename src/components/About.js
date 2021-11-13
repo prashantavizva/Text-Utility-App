@@ -85,9 +85,9 @@ export default function About(props) {
             >
               <div className="accordion-body" style={myStyle}>
                 <i>
-                  TextUtils is a free character counter tool that provides
-                  instant character count, word count statistics,no of sentences
-                  for a given text. TextUtils reports the number of words and
+                  TextUtils is a free text utility tool that provides instant
+                  character count, word count statistics,no of sentences for a
+                  given text. TextUtils reports the number of words and
                   characters, no of sentences. Thus it is suitable for writing
                   text with word/ character /sentence limit limit.
                 </i>
